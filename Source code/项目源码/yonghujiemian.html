@@ -1,0 +1,119 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<title>欢迎登陆员工管理系统</title>
+<head>
+	<meta charset="UTF-8">
+
+	<meta charset="UTF-8"/>
+	<style>
+		* {
+			margin: 0;
+			padding: 0;
+		}
+
+		html {
+			height: 100%;
+			width: 100%;
+			overflow: hidden;
+			margin: 0;
+			padding: 0;
+			background: url(Desert.jpg) no-repeat 0px 0px;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			-moz-background-size: 100% 100%;
+		}
+
+		body {
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			height: 100%;
+			font-size: 20px;
+		}
+
+		#loginDiv {
+			width: 37%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			height: 300px;
+			background-color: rgba(75, 81, 95, 0.3);
+			box-shadow: 7px 7px 17px rgba(52, 56, 66, 0.5);
+			border-radius: 5px;
+		}
+
+		#name_trip {
+			margin-left: 50px;
+			color: red;
+		}
+
+		p {
+			margin-top: 30px;
+			margin-left: 20px;
+			color: azure;
+		}
+
+		input {
+			margin-left: 15px;
+			border-radius: 5px;
+			border-style: hidden;
+			height: 30px;
+			width: 200px;
+			background-color: rgba(216, 191, 216, 0.5);
+			outline: none;
+			color: #f0edf3;
+			padding-left: 10px;
+		}
+
+		.button {
+			border-color: cornsilk;
+			background-color: rgba(100, 149, 237, .7);
+			color: aliceblue;
+			border-style: hidden;
+			border-radius: 5px;
+			width: 100px;
+			height: 31px;
+			font-size: 16px;
+		#demo{
+			position: absolute;
+			height: 100%;
+		}
+		}
+	</style>
+	<script src="jparticles.js"></script>
+	<!-- 引入粒子特效 -->
+	<script src="particle.js"></script>
+
+</head>
+<body>
+<div id="demo" style="width:100%; position: absolute; height: 100%; z-index: -10;"></div>
+<script>
+	new JParticles.particle('#demo', {
+		// 两粒子圆心点之间的直线距离为 90
+		proximity: 90,
+		// 定位点半径 100 以内（包含）的所有粒子，圆心点之间小于等于 proximity 值，则连线
+		range: 100,
+		eventElem: null
+	});
+	// 使用 new JParticles.特效名 创建特效
+	//new JParticles.particle('#demo');
+</script>
+<div id="loginDiv" >
+	<filedset>
+		<h1 style="text-align: center;color: aliceblue;"> welcome！ </h1>
+		<table>
+			<tr>
+				<td><input type='submit' value='考勤'onclick = "location.href='kaoqin.php'"></td>
+			</tr>
+			<tr>
+				<td><input type='submit' value='工资查询'onclick = "location.href='gongzichaxun.php'"></td>
+			</tr>
+			<tr>
+				<td><input type='submit' value='退出登陆'onclick = "location.href='denglu.html'"></td>
+			</tr>
+		</table>
+	</filedset>
+
+</div>
+</body>
+</html>
