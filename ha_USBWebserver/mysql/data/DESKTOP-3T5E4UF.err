@@ -111,3 +111,231 @@ InnoDB: Restoring possible half-written data pages from the doublewrite
 InnoDB: buffer...
 190708 21:00:37  InnoDB: Waiting for the background threads to start
 190708 21:00:38 InnoDB: 1.1.8 started; log sequence number 1724737
+200526 18:10:01 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:10:01 InnoDB: The InnoDB memory heap is disabled
+200526 18:10:01 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:10:01 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:10:01 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:10:01 InnoDB: Completed initialization of buffer pool
+200526 18:10:02 InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+200526 18:10:02  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+200526 18:10:03  InnoDB: Waiting for the background threads to start
+200526 18:10:04 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:10:04 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:10:04 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:10:04 [ERROR] Aborting
+
+200526 18:10:04  InnoDB: Starting shutdown...
+200526 18:10:05  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:10:05 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:10:27 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:10:27 InnoDB: The InnoDB memory heap is disabled
+200526 18:10:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:10:27 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:10:27 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:10:27 InnoDB: Completed initialization of buffer pool
+200526 18:10:27 InnoDB: highest supported file format is Barracuda.
+200526 18:10:28  InnoDB: Waiting for the background threads to start
+200526 18:10:29 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:10:29 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:10:29 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:10:29 [ERROR] Aborting
+
+200526 18:10:29  InnoDB: Starting shutdown...
+200526 18:10:29  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:10:29 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:29:15 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:29:15 InnoDB: The InnoDB memory heap is disabled
+200526 18:29:15 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:29:15 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:29:15 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:29:15 InnoDB: Completed initialization of buffer pool
+200526 18:29:15 InnoDB: highest supported file format is Barracuda.
+200526 18:29:16  InnoDB: Waiting for the background threads to start
+200526 18:29:17 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:29:17 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:29:17 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:29:17 [ERROR] Aborting
+
+200526 18:29:17  InnoDB: Starting shutdown...
+200526 18:29:17  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:29:17 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:31:07 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:31:07 InnoDB: The InnoDB memory heap is disabled
+200526 18:31:07 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:31:07 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:31:07 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:31:07 InnoDB: Completed initialization of buffer pool
+200526 18:31:07 InnoDB: highest supported file format is Barracuda.
+200526 18:31:08  InnoDB: Waiting for the background threads to start
+200526 18:31:09 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:31:09 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:31:09 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:31:09 [ERROR] Aborting
+
+200526 18:31:09  InnoDB: Starting shutdown...
+200526 18:31:09  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:31:09 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:31:27 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:31:27 InnoDB: The InnoDB memory heap is disabled
+200526 18:31:27 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:31:27 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:31:27 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:31:27 InnoDB: Completed initialization of buffer pool
+200526 18:31:28 InnoDB: highest supported file format is Barracuda.
+200526 18:31:28  InnoDB: Waiting for the background threads to start
+200526 18:31:29 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:31:29 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:31:29 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:31:29 [ERROR] Aborting
+
+200526 18:31:29  InnoDB: Starting shutdown...
+200526 18:31:29  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:31:29 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:36:10 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:36:10 InnoDB: The InnoDB memory heap is disabled
+200526 18:36:10 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:36:10 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:36:10 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:36:10 InnoDB: Completed initialization of buffer pool
+200526 18:36:10 InnoDB: highest supported file format is Barracuda.
+200526 18:36:10  InnoDB: Waiting for the background threads to start
+200526 18:36:11 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:36:11 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:36:11 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:36:11 [ERROR] Aborting
+
+200526 18:36:11  InnoDB: Starting shutdown...
+200526 18:36:12  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:36:12 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:38:46 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:38:46 InnoDB: The InnoDB memory heap is disabled
+200526 18:38:46 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:38:46 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:38:47 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:38:47 InnoDB: Completed initialization of buffer pool
+200526 18:38:47 InnoDB: highest supported file format is Barracuda.
+200526 18:38:47  InnoDB: Waiting for the background threads to start
+200526 18:38:48 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:38:48 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:38:48 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:38:48 [ERROR] Aborting
+
+200526 18:38:48  InnoDB: Starting shutdown...
+200526 18:38:49  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:38:49 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:39:05 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:39:05 InnoDB: The InnoDB memory heap is disabled
+200526 18:39:05 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:39:05 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:39:05 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:39:05 InnoDB: Completed initialization of buffer pool
+200526 18:39:05 InnoDB: highest supported file format is Barracuda.
+200526 18:39:06  InnoDB: Waiting for the background threads to start
+200526 18:39:07 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:39:07 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:39:07 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:39:07 [ERROR] Aborting
+
+200526 18:39:07  InnoDB: Starting shutdown...
+200526 18:39:07  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:39:07 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:39:20 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:39:20 InnoDB: The InnoDB memory heap is disabled
+200526 18:39:20 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:39:20 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:39:20 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:39:20 InnoDB: Completed initialization of buffer pool
+200526 18:39:20 InnoDB: highest supported file format is Barracuda.
+200526 18:39:21  InnoDB: Waiting for the background threads to start
+200526 18:39:22 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:39:22 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:39:22 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:39:22 [ERROR] Aborting
+
+200526 18:39:22  InnoDB: Starting shutdown...
+200526 18:39:22  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:39:23 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:40:25 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:40:25 InnoDB: The InnoDB memory heap is disabled
+200526 18:40:25 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:40:25 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:40:25 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:40:25 InnoDB: Completed initialization of buffer pool
+200526 18:40:25 InnoDB: highest supported file format is Barracuda.
+200526 18:40:26  InnoDB: Waiting for the background threads to start
+200526 18:40:27 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:40:27 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:40:27 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:40:27 [ERROR] Aborting
+
+200526 18:40:27  InnoDB: Starting shutdown...
+200526 18:40:27  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:40:27 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 18:41:14 [Note] Plugin 'FEDERATED' is disabled.
+200526 18:41:14 InnoDB: The InnoDB memory heap is disabled
+200526 18:41:14 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 18:41:14 InnoDB: Compressed tables use zlib 1.2.3
+200526 18:41:14 InnoDB: Initializing buffer pool, size = 128.0M
+200526 18:41:14 InnoDB: Completed initialization of buffer pool
+200526 18:41:14 InnoDB: highest supported file format is Barracuda.
+200526 18:41:15  InnoDB: Waiting for the background threads to start
+200526 18:41:16 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 18:41:16 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 18:41:16 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 18:41:16 [ERROR] Aborting
+
+200526 18:41:16  InnoDB: Starting shutdown...
+200526 18:41:16  InnoDB: Shutdown completed; log sequence number 1737490
+200526 18:41:16 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 19:09:13 [Note] Plugin 'FEDERATED' is disabled.
+200526 19:09:13 InnoDB: The InnoDB memory heap is disabled
+200526 19:09:13 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 19:09:13 InnoDB: Compressed tables use zlib 1.2.3
+200526 19:09:13 InnoDB: Initializing buffer pool, size = 128.0M
+200526 19:09:13 InnoDB: Completed initialization of buffer pool
+200526 19:09:13 InnoDB: highest supported file format is Barracuda.
+200526 19:09:14  InnoDB: Waiting for the background threads to start
+200526 19:09:15 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 19:09:15 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 19:09:15 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 19:09:15 [ERROR] Aborting
+
+200526 19:09:15  InnoDB: Starting shutdown...
+200526 19:09:15  InnoDB: Shutdown completed; log sequence number 1737490
+200526 19:09:15 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
+200526 19:09:19 [Note] Plugin 'FEDERATED' is disabled.
+200526 19:09:19 InnoDB: The InnoDB memory heap is disabled
+200526 19:09:19 InnoDB: Mutexes and rw_locks use Windows interlocked functions
+200526 19:09:19 InnoDB: Compressed tables use zlib 1.2.3
+200526 19:09:19 InnoDB: Initializing buffer pool, size = 128.0M
+200526 19:09:19 InnoDB: Completed initialization of buffer pool
+200526 19:09:19 InnoDB: highest supported file format is Barracuda.
+200526 19:09:21  InnoDB: Waiting for the background threads to start
+200526 19:09:22 InnoDB: 1.1.8 started; log sequence number 1737490
+200526 19:09:22 [ERROR] Can't start server: Bind on TCP/IP port: No such file or directory
+200526 19:09:22 [ERROR] Do you already have another mysqld server running on port: 3306 ?
+200526 19:09:22 [ERROR] Aborting
+
+200526 19:09:22  InnoDB: Starting shutdown...
+200526 19:09:22  InnoDB: Shutdown completed; log sequence number 1737490
+200526 19:09:22 [Note] C:\Users\dell\Desktop\Enterprise-MySQL-human-resource-management-system\ha_USBWebserver/mysql/bin/mysqld_usbwv8.exe: Shutdown complete
+
